@@ -37,5 +37,6 @@ class Hero(pygame.sprite.Sprite):
             print("attack failed. Remaining Health: ", self.health)
             return False
         else:
+            self.speed = 6
             print("successful attack")
         return True
