@@ -8,20 +8,20 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program creates a game where a hero is moved around using the arrow keys on a keyboard to fight off 3 enemies who move around randomly. 
 #### Unique Feature
- < Describe the unique feature you added >
+ When the hero is successful in attacking and defeats an ememy, the hero's speed increases. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 0
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None. 
 
 ## REFERENCES:
- < List any outside resources used >
+ None. 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None. 
